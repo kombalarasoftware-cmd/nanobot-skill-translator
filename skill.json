@@ -1,0 +1,1 @@
+{"name":"translator","version":"1.0.0","description":"Multi-language translation with context awareness and language detection","author":"kombalarasoftware","category":"utility","tools":["translate_text","detect_language","translate_conversation","get_supported_languages"],"dependencies":[],"min_nanobot_version":"0.1.0"}
