@@ -1,0 +1,1 @@
+## nanobot-skill-translator\nMulti-language translation skill for Nanobot AI
